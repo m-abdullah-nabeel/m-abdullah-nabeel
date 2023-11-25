@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-//#- 🔭 I’m currently working on UVAgro -- a mobile app for calculating optimized (least-cost) feed formulae for animals using linear programming
 - 🔭 I’m currently working on ML&AI along with web3 projects
 - 🌱 I’m currently learning Healthcare Cybersecurity and Dapps & Healthcare
 <!--
