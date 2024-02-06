@@ -5,15 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ML&AI along with web3 projects
-- 🌱 I’m currently learning Healthcare Cybersecurity and Dapps & Healthcare
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with projects in Bioinformatics
--->
-- 🤔 I’m looking to collaborate with projects in Bioinformatics
-- 💬 Ask me about Python, Node, Machine Learning, Cybersecurity
-- 👯 I have developed web apps using Django, Flask, Fast API, Express, React, Next and used both SQL and NoSQL databases and worked on ML & AI using SkLearn, plain python and Tensorflow
+- 🔭 I’m a veterinarian by profession, transitioning to computational biology and machine learning.
+- 🌱 I have worked on developing desktop software, web apps and Android apps.
+- 👯 Some of the technologies I usually work with are Django, Flask, ReactJS, NextJS for web apps, and React-Native for cross-platform mobile apps. SQL and NoSQL databases to integrate with Backend in FastAPI or ExpressJS.
+- 🤔 I’m looking to increase my skillset with projects in Bioinformatics, Computational Biology, Computational Neuroscience and Data Science.
+- 💬 Ask me about Python, NodeJS, Machine Learning, and Cybersecurity.
 - 📫 How to reach me: https://dr-abdullah-nabeel.web.app/
 - 😄 Pronouns: He/him
 <!--
