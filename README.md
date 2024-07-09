@@ -15,5 +15,6 @@ Here are some ideas to get you started:
  - ⚡ I want to grow my skills through projects in bioinformatics, computational biology, and data science.
  - 💬 Ask me about genomics, machine learning, Python, NodeJS, and R.
 - 🎁 Gists - https://gist.github.com/m-abdullah-nabeel
-- 📫 Portfolio - https://dr-abdullah-nabeel.web.ap
+- 📫 Portfolio - https://dr-abdullah-nabeel.web.app
 - 💥 Blog - https://medium.com/@manabeel.vet
+- 🛴 Services - https://www.fiverr.com/manabeel
