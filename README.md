@@ -5,15 +5,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I studied veterinary medicine.
-- 😄 Fun fact: I am a self-taught programmer.
-- 🤔 So, I am transitioning to computational biology and data science.
-- ⚡ I learnt genomic data analysis, bulk & sc-RNA seq data analysis. 
-- 🌱 I have developed and sold desktop software, web apps and Android apps.
-- ✨ Some of the technologies I previously worked with are React-Native for cross-platform mobile apps.
-- 👯 Wll-versed in ReactJS, NextJS, Django, Flask SQL & NoSQL, FastAPI or ExpressJS.
-- ⚡ I want to grow my skills through projects in Bioinformatics, Computational Biology and Data Science.
-- 💬 Ask me about Genomics, Machine Learning, Python, NodeJS and R.
-- 📫 Portfolio - https://dr-abdullah-nabeel.web.ap
+ - 🔭 I have a degree in Doctor of Veterinary Medicine (DVM).
+ - 😄 Fun fact: I am a self-taught programmer.
+ - 🤔 I am transitioning to computational biology and data science.
+ - ⚡ I have learned genomic data analysis, bulk RNA-seq, and single-cell RNA-seq data analysis.
+ - 🌱 I have developed and sold desktop software, web apps, and Android apps.
+ - ✨ I have worked with React-Native for cross-platform mobile apps.
+ - 👯 I am well-versed in ReactJS, NextJS, Django, Flask, SQL & NoSQL, FastAPI, and ExpressJS.
+ - ⚡ I want to grow my skills through projects in bioinformatics, computational biology, and data science.
+ - 💬 Ask me about genomics, machine learning, Python, NodeJS, and R.
 - 🎁 Gists - https://gist.github.com/m-abdullah-nabeel
+- 📫 Portfolio - https://dr-abdullah-nabeel.web.ap
 - 💥 Blog - https://medium.com/@manabeel.vet
